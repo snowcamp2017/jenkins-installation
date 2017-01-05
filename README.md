@@ -6,4 +6,4 @@
 - get admin password in the log (be careful with copy paste)
 - eg: http://myjenkins.cleverapps.io/jenkins
 - set a bucket for data
-- set `JENKINS_HOME` to the bucket
+- set `JENKINS_HOME` to the bucket, eg: ``
