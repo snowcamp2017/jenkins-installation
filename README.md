@@ -1,6 +1,6 @@
 # jenkins-installation
 
-> :construction:
+> :construction: ...
 
 > Install for/on Clever Cloud
 
